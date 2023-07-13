@@ -33,6 +33,11 @@ The prototyping is available in figma:
 <img alt="Figma" src="https://img.shields.io/static/v1?label=prototyping&message=Figma&color=red&style=flat&logo=figma&logoColor=#FFFFFF" />
 </a>
 
+### Trigger
+
+<p align="center">
+	<img alt="Trigger" title="#Trigger" src="https://github.com/dgsoaresdev/integrated_total_lead/assets/25693566/c35e8cee-282c-4710-8bb9-6bc23ffdc6b8" width="49%" />
+</p>
 
 ### Home
 
@@ -47,7 +52,7 @@ The prototyping is available in figma:
 
 <img alt="Register 2" title="#Register 2" src="https://github.com/dgsoaresdev/integrated_total_lead/assets/25693566/ef10b140-2d01-4d4d-809a-1b67f78a7e07" width="49%" />
 
-<img alt="Setup 2" title="#Started" src="https://github.com/dgsoaresdev/integrated_total_lead/assets/25693566/c35e8cee-282c-4710-8bb9-6bc23ffdc6b8" width="49%" />
+
 
 </p>
 
