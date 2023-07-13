@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img alt="Zoeweb" title="#Zoeweb" src="https://github.com/I9ME/zoeweb/assets/25693566/85d25ac0-ade6-49c3-8df1-45d298b5b75c" />
+    <img alt="Zoeweb" title="#Zoeweb" src="https://github.com/dgsoaresdev/integrated_total_lead/assets/25693566/46a841b8-7238-4dd6-bf10-7cbd5514f756" />
 
-</h1>
 
 <h4 align="center"> 
 	🚧 Version 1.0 🚀 Under development... 🚧
