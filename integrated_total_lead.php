@@ -1,13 +1,13 @@
 <?php
 /**
- * Plugin Name: Integrated Total Lead
- * Description: It integrates the collection and/or registration of site user data with other applications (eg CRM, E-mail Mkt, etc.).
- * Plugin URI: https://diogosoars.com.br
- * Author: Diogo Soares | HAWS / I9ME
- * Author URI: https://diogosoars.com.br
- * Version: 1.0
- * License: MTI
- */
+* Plugin Name: Integrated Total Lead
+* Description: Integrate your wordpress leads anywhere.
+* Plugin URI: https://github.com/dgsoaresdev/integrated_total_lead/tree/main
+* Author: Diogo Soares | HAWS / I9ME
+* Author URI: https://diogosoars.com.br
+* Version: 1.0
+* License: MTI
+*/
 
  /*
  //==============================
