@@ -29,7 +29,7 @@ For this reason I decided to start a plugin project that shares precious data, f
 
 The prototyping is available in figma:
 
-<a href="#">
+<a href="https://www.figma.com/file/AsUalVskcxNscoLtY4T5qf/Integrated-total-lead?type=design&node-id=0%3A1&mode=design&t=wP5ih5yknGdlPsZf-1" target="blank">
 <img alt="Figma" src="https://img.shields.io/static/v1?label=prototyping&message=Figma&color=red&style=flat&logo=figma&logoColor=#FFFFFF" />
 </a>
 
@@ -39,8 +39,16 @@ The prototyping is available in figma:
 
 <p align="center">
 
-<img alt="Zoeweb" title="#Zoeweb" src="https://github.com/I9ME/zoeweb/assets/25693566/7027300d-f08e-4218-bcd3-9ce065d79a89" width="49%" />
- <img alt="Zoeweb Mobile" title="#Zoeweb Mobile" src="https://github.com/I9ME/zoeweb/assets/25693566/44c61e89-a0f2-4656-9933-70fe73cd7457" width="49%" />
+<img alt="Started" title="#Started" src="https://github.com/dgsoaresdev/integrated_total_lead/assets/25693566/78ecb77a-d816-4a34-98e1-4f693963a5bb" width="49%" />
+
+<img alt="Register 1" title="#Register 1" src="https://github.com/dgsoaresdev/integrated_total_lead/assets/25693566/09fc6b63-47bc-42bd-9542-b641bc582882" width="49%" />
+
+<img alt="Setup" title="#Setup" src="https://github.com/dgsoaresdev/integrated_total_lead/assets/25693566/bd417bc8-f4bd-4698-ae28-e1d4274b27bb" width="49%" />
+
+<img alt="Register 2" title="#Register 2" src="https://github.com/dgsoaresdev/integrated_total_lead/assets/25693566/ef10b140-2d01-4d4d-809a-1b67f78a7e07" width="49%" />
+
+<img alt="Setup 2" title="#Started" src="https://github.com/dgsoaresdev/integrated_total_lead/assets/25693566/c35e8cee-282c-4710-8bb9-6bc23ffdc6b8" width="49%" />
+
 </p>
 
 
