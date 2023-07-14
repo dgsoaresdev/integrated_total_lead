@@ -1,15 +1,12 @@
 <?php
 
-    class Integrations {        
-
-        protected $nome;
-        public $array_posts;        
-
+    class Integrations {           
+        // Construct
         public function __construct($param1 = "")
         {
 
         }
-
+         // Build Integrations Loop
         public function getPosts($post_id = "") 
         {
         
