@@ -97,18 +97,27 @@ For this reason I decided to start a plugin project that shares precious data, f
 */
 
 //===========================
-// INCLUDES
+// Get Started
 //==========================
 
-//=========
-// Options
-//========
+define( 'INTEGRATOTALLEAD_PLUGIN_URL', untrailingslashit( plugin_dir_url( __FILE__ ) ) );
+define( 'INTEGRATOTALLEAD_PLUGIN_DIR', untrailingslashit( plugin_dir_path( __FILE__ ) ) );
 
- 
- 
-// Add necessary actions
+//===========================
+// Includes
+//==========================
+include INTEGRATOTALLEAD_PLUGIN_DIR."/inc/post_types.php";
+include INTEGRATOTALLEAD_PLUGIN_DIR."/inc/post_meta.php";
+include INTEGRATOTALLEAD_PLUGIN_DIR."/class/Integrations.php";
+
+//===========================
+// Registered Plugin
+//==========================
+
+// add actions
 add_action('admin_menu', 'integrated_total_lead_add_admin_menu');
 add_action('admin_init', 'integrated_total_lead_settings_init');
+
 
 
 function integrated_total_lead_add_admin_menu() {
@@ -119,17 +128,14 @@ function integrated_total_lead_settings_init() {
     //
 }
 
+// Call Vmain plugin view
 function integrated_total_lead_options_page() {
     echo '<br>
     <h3>Details example</h3>
     <hr>
     <br>
     <strong>Details</strong>: Example.<br><br>
+    <hr>
 ';
+    include INTEGRATOTALLEAD_PLUGIN_DIR."/views/posts-page.php";
 }
-
-
-//include "inc/post_types.php";
-//include "inc/post_meta.php";
-
-
