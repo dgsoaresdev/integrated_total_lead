@@ -55,37 +55,42 @@ For this reason I decided to start a plugin project that shares precious data, f
 2. Save Options:
 -- 2.1 Integrations Active
 -- 2.2 Fileds of wich integrations
--- 2.2.1 Perfex
--- 2.2.1.1 API
--- 2.2.1.2 URL
--- 2.2.1.3 Source
--- 2.2.1.4 agent
 -- 2.2.1 Agendor
--- 2.2.1.1 API
+-- 2.2.1.1 Token API
 -- 2.2.1.2 URL
 -- 2.2.1.3 Source
 -- 2.2.1.4 agent
--- 2.2.1 Zoho
--- 2.2.1.1 API
--- 2.2.1.2 URL
--- 2.2.1.3 Source
--- 2.2.1.4 agent
--- 2.2.1 Mailchimp
--- 2.2.1.1 API
--- 2.2.1.2 URL
--- 2.2.1.3 List
--- 2.2.1.4 Segment
--- 2.2.1 ActiveCampaign
--- 2.2.1.1 API
--- 2.2.1.2 URL
--- 2.2.1.3 List
--- 2.2.1.4 Segment
--- 2.2.1 Google spreadsheet
--- 2.2.1.1 API
--- 2.2.1.2 URL
--- 2.2.1.3 File
--- 2.2.1.4 Table
--- 2.2.1.4 Line
+-- 2.2.2 Zoho
+-- 2.2.2.1 Token API
+-- 2.2.2.2 URL
+-- 2.2.2.3 Source
+-- 2.2.2.4 agent
+-- 2.2.3 Mailchimp
+-- 2.2.3.1 Token API
+-- 2.2.3.2 URL
+-- 2.2.3.3 List
+-- 2.2.3.4 Segment
+-- 2.2.4 ActiveCampaign
+-- 2.2.4.1 Token API
+-- 2.2.4.2 URL
+-- 2.2.4.3 List
+-- 2.2.4.4 Segment
+-- 2.2.5 Google spreadsheet
+-- 2.2.5.1 Token API
+-- 2.2.5.2 URL
+-- 2.2.5.3 File
+-- 2.2.5.4 Table
+-- 2.2.5.4 Line
+-- 2.2.6 Perfex
+-- 2.2.6.1 Token API
+-- 2.2.6.2 URL
+-- 2.2.6.3 Source
+-- 2.2.6.4 agent
+-- 2.2.7 SalesForce
+-- 2.2.7.1 Token API
+-- 2.2.7.2 URL
+-- 2.2.7.3 Source
+-- 2.2.7.4 agent
 
 3. Merge Fields:
 -- 3.1 Perfex

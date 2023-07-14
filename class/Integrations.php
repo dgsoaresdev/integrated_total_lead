@@ -3,9 +3,7 @@
     class Integrations {        
 
         protected $nome;
-        public $array_posts;
-        //const ESPECIE = "Humana";
-        //public $site;
+        public $array_posts;        
 
         public function __construct($param1 = "")
         {
@@ -31,25 +29,6 @@
 
             $loop = new WP_Query( $args );
             return $loop;
-
-           // return array('teste'=>1);
-
         }
 
-        // // public function setNome($novoNome)
-        // // {
-        // //     $this->nome = $novoNome;
-        // // }
-        // public function getTitle()
-        // {
-            
-        //     return $this->array_posts;
-        // }
-
-        // public function falarNome(){
-        //     echo $this->nome;
-        // }
-        // public function falarSite(){
-        //     echo $this->site;
-        // }
     }
