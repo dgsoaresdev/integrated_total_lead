@@ -25,7 +25,7 @@ For this reason I decided to start a plugin project that shares precious data, f
 // Acrchitecture
 //==========================
 
-// Do Create Custom Post Type called "dg_integrated_total_lead" 
+// Do Create Custom Post Type called "dg_integrated_total_lead"  
 // Do Create post_meta called "source"
 // Do Create post_meta called "targets"
 // Do Create post_meta called "arrays_targets", for register data from each endpoint target
