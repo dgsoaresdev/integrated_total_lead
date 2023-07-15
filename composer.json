@@ -1,0 +1,21 @@
+{
+    "name": "dg/integrated_total_lead",
+    "autoload": {
+        "psr-4": {
+            "Dg\\IntegratedTotalLead\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diogo Soares",
+            "email": "dg@diogosoares.com.br"
+        }
+    ],
+    "autoload":{
+        "psr-4": {
+            "app\\":"app"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}

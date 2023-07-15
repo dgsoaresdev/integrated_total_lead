@@ -1,6 +1,6 @@
 <?php
 /*
-Create Object get_integrations based in post_type created. Outpoot = List Posts
+Creating Object get_integrations and print data 
 */
  $get_integrations = new Integrations();
 
@@ -9,7 +9,6 @@ Create Object get_integrations based in post_type created. Outpoot = List Posts
   echo  '<hr>';
 
  if ( $loop->have_posts() ) {
-
     //Loop posts
 	if ( $loop->have_posts() ) {
     		while ( $loop->have_posts() ) : $loop->the_post();
